@@ -10,7 +10,7 @@ A **production-style real-time chat system** built using **Spring Boot WebSocket
 
 ---
 
-## ⚡ Why This Project 
+## ⚡ Why This Project
 
 * Built a **real-time bidirectional messaging system** using **WebSockets (STOMP pub/sub)**
 * Implemented **event-driven architecture** with **decoupled message routing (`/app → /topic`)**
