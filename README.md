@@ -6,7 +6,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-WebSockets-green)
 ![Protocol](https://img.shields.io/badge/Protocol-STOMP%20%2B%20SockJS-purple)
 
-A **production-style real-time chat system** built using **Spring Boot WebSockets (STOMP over SockJS)** enabling **low-latency, event-driven communication** between concurrent clients.
+A **production-style real-time chat system** built using **Spring Boot WebSockets (STOMP over SockJS)** enabling **low-latency, event-driven communication** between concurrent clients. 
 
 ---
 
